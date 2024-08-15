@@ -1,0 +1,200 @@
+[
+    {
+        "label": "factorial",
+        "kind": 2,
+        "importPath": "Basic.Assignment1",
+        "description": "Basic.Assignment1",
+        "peekOfCode": "def factorial(n):\n    if n==0:\n        return 1\n    else:\n        return n*factorial(n-1)\nprint(f'Factorial of the number is {factorial(n)}')'''\n#Swipe the value\n'''\na = int(input(\"enter a number: \"))\nb = int(input(\"Enter another number: \"))",
+        "detail": "Basic.Assignment1",
+        "documentation": {}
+    },
+    {
+        "label": "'''User",
+        "kind": 5,
+        "importPath": "Basic.Assignment1",
+        "description": "Basic.Assignment1",
+        "peekOfCode": "'''User = input(\"Write anything:\")\nprint(f'Your input is: {User}')'''\n#Find is the number is positive of negative\n''' \nnum = int(input(\"enter a number: \"))\nif num > 0:\n    print(\"The number is positive\")\nelif num <0:\n    print(\"The number is negative\")\nelse:",
+        "detail": "Basic.Assignment1",
+        "documentation": {}
+    },
+    {
+        "label": "num",
+        "kind": 5,
+        "importPath": "Basic.Assignment1",
+        "description": "Basic.Assignment1",
+        "peekOfCode": "num = int(input(\"enter a number: \"))\nif num > 0:\n    print(\"The number is positive\")\nelif num <0:\n    print(\"The number is negative\")\nelse:\n    Print(\"The number is Zero\")\n    '''\n#Find the highest number\n'''",
+        "detail": "Basic.Assignment1",
+        "documentation": {}
+    },
+    {
+        "label": "num1",
+        "kind": 5,
+        "importPath": "Basic.Assignment1",
+        "description": "Basic.Assignment1",
+        "peekOfCode": "num1 = int(input(\"Enter the first num: \"))\nnum2 = int(input(\"Enter the second num: \"))\nnum3 = int(input(\"Enter the third num: \"))\nif num1>num2 and num1>num3:\n    print(f\"The highest number is {str(num1)}\")\nelif num2>num1 and num2>num3:\n    print(f\"The highest number is {str(num2)}\")\nelse:\n    print(f\"The highest number is {str(num3)}\")\n    '''",
+        "detail": "Basic.Assignment1",
+        "documentation": {}
+    },
+    {
+        "label": "num2",
+        "kind": 5,
+        "importPath": "Basic.Assignment1",
+        "description": "Basic.Assignment1",
+        "peekOfCode": "num2 = int(input(\"Enter the second num: \"))\nnum3 = int(input(\"Enter the third num: \"))\nif num1>num2 and num1>num3:\n    print(f\"The highest number is {str(num1)}\")\nelif num2>num1 and num2>num3:\n    print(f\"The highest number is {str(num2)}\")\nelse:\n    print(f\"The highest number is {str(num3)}\")\n    '''\n#Write factorial of a number",
+        "detail": "Basic.Assignment1",
+        "documentation": {}
+    },
+    {
+        "label": "num3",
+        "kind": 5,
+        "importPath": "Basic.Assignment1",
+        "description": "Basic.Assignment1",
+        "peekOfCode": "num3 = int(input(\"Enter the third num: \"))\nif num1>num2 and num1>num3:\n    print(f\"The highest number is {str(num1)}\")\nelif num2>num1 and num2>num3:\n    print(f\"The highest number is {str(num2)}\")\nelse:\n    print(f\"The highest number is {str(num3)}\")\n    '''\n#Write factorial of a number\n'''",
+        "detail": "Basic.Assignment1",
+        "documentation": {}
+    },
+    {
+        "label": "n",
+        "kind": 5,
+        "importPath": "Basic.Assignment1",
+        "description": "Basic.Assignment1",
+        "peekOfCode": "n = int(input(\"enter a number: \"))\ndef factorial(n):\n    if n==0:\n        return 1\n    else:\n        return n*factorial(n-1)\nprint(f'Factorial of the number is {factorial(n)}')'''\n#Swipe the value\n'''\na = int(input(\"enter a number: \"))",
+        "detail": "Basic.Assignment1",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "Basic.Assignment1",
+        "description": "Basic.Assignment1",
+        "peekOfCode": "a = int(input(\"enter a number: \"))\nb = int(input(\"Enter another number: \"))\nprint(f'Before swipe the value the numbers are a={a} and b={b}')\na,b = b,a\nprint(f\"Now the numbers are a={b} and b={a}\")\n'''\n#Write a Python program to convert Celsius to Fahrenheit.\n'''\nc = int(input(\"Write the celcius value: \"))\nf = (c *9/5)+32",
+        "detail": "Basic.Assignment1",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "Basic.Assignment1",
+        "description": "Basic.Assignment1",
+        "peekOfCode": "b = int(input(\"Enter another number: \"))\nprint(f'Before swipe the value the numbers are a={a} and b={b}')\na,b = b,a\nprint(f\"Now the numbers are a={b} and b={a}\")\n'''\n#Write a Python program to convert Celsius to Fahrenheit.\n'''\nc = int(input(\"Write the celcius value: \"))\nf = (c *9/5)+32\nprint(f\"The Ferhenhite value is {f}\")",
+        "detail": "Basic.Assignment1",
+        "documentation": {}
+    },
+    {
+        "label": "a,b",
+        "kind": 5,
+        "importPath": "Basic.Assignment1",
+        "description": "Basic.Assignment1",
+        "peekOfCode": "a,b = b,a\nprint(f\"Now the numbers are a={b} and b={a}\")\n'''\n#Write a Python program to convert Celsius to Fahrenheit.\n'''\nc = int(input(\"Write the celcius value: \"))\nf = (c *9/5)+32\nprint(f\"The Ferhenhite value is {f}\")\n'''\n#Write a Python program to check if a variable is of a specific data type.",
+        "detail": "Basic.Assignment1",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "Basic.Assignment1",
+        "description": "Basic.Assignment1",
+        "peekOfCode": "c = int(input(\"Write the celcius value: \"))\nf = (c *9/5)+32\nprint(f\"The Ferhenhite value is {f}\")\n'''\n#Write a Python program to check if a variable is of a specific data type.\n'''\nnum = 23.25\nif isinstance(num, float):\n    print(\"Float\")\nelse:",
+        "detail": "Basic.Assignment1",
+        "documentation": {}
+    },
+    {
+        "label": "f",
+        "kind": 5,
+        "importPath": "Basic.Assignment1",
+        "description": "Basic.Assignment1",
+        "peekOfCode": "f = (c *9/5)+32\nprint(f\"The Ferhenhite value is {f}\")\n'''\n#Write a Python program to check if a variable is of a specific data type.\n'''\nnum = 23.25\nif isinstance(num, float):\n    print(\"Float\")\nelse:\n    print(\"Is not a float\")",
+        "detail": "Basic.Assignment1",
+        "documentation": {}
+    },
+    {
+        "label": "num",
+        "kind": 5,
+        "importPath": "Basic.Assignment1",
+        "description": "Basic.Assignment1",
+        "peekOfCode": "num = 23.25\nif isinstance(num, float):\n    print(\"Float\")\nelse:\n    print(\"Is not a float\")\n    '''\nnumbers = [int(x) for x in input(\"Enter numbers separated by space: \").split()]\nnumbers.sort()\nprint(f\"Sorted list: {numbers}\")",
+        "detail": "Basic.Assignment1",
+        "documentation": {}
+    },
+    {
+        "label": "numbers",
+        "kind": 5,
+        "importPath": "Basic.Assignment1",
+        "description": "Basic.Assignment1",
+        "peekOfCode": "numbers = [int(x) for x in input(\"Enter numbers separated by space: \").split()]\nnumbers.sort()\nprint(f\"Sorted list: {numbers}\")",
+        "detail": "Basic.Assignment1",
+        "documentation": {}
+    },
+    {
+        "label": "n",
+        "kind": 5,
+        "importPath": "Control flow.Assignment2",
+        "description": "Control flow.Assignment2",
+        "peekOfCode": "n = int(input('Enter a number: '))\nif n>0:\n    if n%2==0:\n        print('The number is positive and even')\n    elif n%2 != 0:\n        print('The number is positive and odd')\n    else:\n        print(\"The number is Zero\")\nelse:\n    print(\"The number is negative\")",
+        "detail": "Control flow.Assignment2",
+        "documentation": {}
+    },
+    {
+        "label": "tot",
+        "kind": 5,
+        "importPath": "Control flow.Assignment2",
+        "description": "Control flow.Assignment2",
+        "peekOfCode": "tot = 0\nwhile True:\n    num = float(input())\n    if num ==0:\n        break\n    tot += num\nprint(tot)'''\n'''\nfor i in range(1, 11):\n    if i == 5:",
+        "detail": "Control flow.Assignment2",
+        "documentation": {}
+    },
+    {
+        "label": "factorial",
+        "kind": 5,
+        "importPath": "Control flow.Assignment2",
+        "description": "Control flow.Assignment2",
+        "peekOfCode": "factorial = 1\ni = 1\nnumber = int(input())\nwhile i<=number:\n    factorial*=i\n    i+=1\nprint(factorial)\n'''\n'''\nnum = int(input())",
+        "detail": "Control flow.Assignment2",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "Control flow.Assignment2",
+        "description": "Control flow.Assignment2",
+        "peekOfCode": "i = 1\nnumber = int(input())\nwhile i<=number:\n    factorial*=i\n    i+=1\nprint(factorial)\n'''\n'''\nnum = int(input())\nwhile num>0:",
+        "detail": "Control flow.Assignment2",
+        "documentation": {}
+    },
+    {
+        "label": "number",
+        "kind": 5,
+        "importPath": "Control flow.Assignment2",
+        "description": "Control flow.Assignment2",
+        "peekOfCode": "number = int(input())\nwhile i<=number:\n    factorial*=i\n    i+=1\nprint(factorial)\n'''\n'''\nnum = int(input())\nwhile num>0:\n    digit= (num%10)",
+        "detail": "Control flow.Assignment2",
+        "documentation": {}
+    },
+    {
+        "label": "num",
+        "kind": 5,
+        "importPath": "Control flow.Assignment2",
+        "description": "Control flow.Assignment2",
+        "peekOfCode": "num = int(input())\nwhile num>0:\n    digit= (num%10)\n    main = (num//10)\n    ans =  digit + main\n    print(ans)\n    break'''\nn = int(input(\"Enter the number of Fibonacci numbers to print: \"))\na, b = 0, 1\ncount = 0",
+        "detail": "Control flow.Assignment2",
+        "documentation": {}
+    },
+    {
+        "label": "n",
+        "kind": 5,
+        "importPath": "Control flow.Assignment2",
+        "description": "Control flow.Assignment2",
+        "peekOfCode": "n = int(input(\"Enter the number of Fibonacci numbers to print: \"))\na, b = 0, 1\ncount = 0\nwhile count < n:\n    print(a)\n    a, b = b, a + b\n    count += 1",
+        "detail": "Control flow.Assignment2",
+        "documentation": {}
+    },
+    {
+        "label": "count",
+        "kind": 5,
+        "importPath": "Control flow.Assignment2",
+        "description": "Control flow.Assignment2",
+        "peekOfCode": "count = 0\nwhile count < n:\n    print(a)\n    a, b = b, a + b\n    count += 1",
+        "detail": "Control flow.Assignment2",
+        "documentation": {}
+    }
+]
